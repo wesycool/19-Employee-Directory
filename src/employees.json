@@ -1,0 +1,26 @@
+[
+  {
+    "first_name": "Eddi",
+    "last_name": "Esteban",
+    "city": "Toronto",
+    "province": "Ontario"
+  },
+  {
+    "first_name": "Christine",
+    "last_name": "Clemens",
+    "city": "Montreal",
+    "province": "Quebec"
+  },
+  {
+    "first_name": "Damon",
+    "last_name": "Zhong",
+    "city": "Toronto",
+    "province": "Ontario"
+  },
+  {
+    "first_name": "Daniel",
+    "last_name": "Ceballos",
+    "city": "Toronto",
+    "province": "Ontario"
+  }  
+]
