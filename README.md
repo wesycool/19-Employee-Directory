@@ -13,6 +13,8 @@ React
 ## Usage
 Run npm start
 
+Sample link: https://wesycool-employee-directory.herokuapp.com/
+
 [![Screenshot](./screenshot.png)]()
 
 ## License
