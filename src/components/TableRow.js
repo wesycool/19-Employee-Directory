@@ -1,7 +1,9 @@
 import React from 'react'
 
 function TableRow( {list} ){
-console.log('TableRow:',list)
+
+console.log('TableRow',list)
+
 const [id, {first_name,last_name,city,province}] = list
 
     return (
