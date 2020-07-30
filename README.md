@@ -1,5 +1,5 @@
 # Employee Directory
-List of employee directory, where the user can search by first name, last name, city, province and or any combination. user can also sort by last name or city
+List of employee directory, where the user can search by first name, last name, city, province and/or any combination. User can also sort by last name or city
 
 ## Table of Contents
 * [Installation](#installation)
