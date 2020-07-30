@@ -2,11 +2,7 @@ import React from "react";
 import TableRow from './TableRow'
 
 
-// this whole function doesn't seem to work
-// I think this works but the sort function is just laging
-function Home( {list,sort} ) {
-
-    console.log(sort)
+function Home( {list,sortList} ) {
 
   return (
     <div className="container">
@@ -14,8 +10,8 @@ function Home( {list,sort} ) {
             <thead>
                 <tr>
                     <th scope="col">#</th>
-                    <th scope="col">Name <button type="button"  id='last_name' onClick={sort} >sort</button></th>
-                    <th scope="col" >Location<button type="button"  id='city' onClick={sort} >sort</button></th>
+                    <th scope="col" id='last_name' onClick={sortList}>Name <i className="fas fa-sort-alpha-down"></i></th>
+                    <th scope="col" id='city' onClick={sortList}>Location <i className="fas fa-sort-alpha-down"></i></th>
                 </tr>
             </thead>
             <tbody>
