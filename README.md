@@ -13,7 +13,9 @@ React
 ## Usage
 Run npm start
 
-[![Screenshot](./screenshot.png)]()
+Sample Link: https://wesycool-employee-directory.herokuapp.com/
+
+[![Screenshot](./screenshot.png)](https://wesycool-employee-directory.herokuapp.com/)
 
 ## License
 MIT License
